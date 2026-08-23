@@ -39,7 +39,7 @@ shapes disease progression and to test whether findings from model systems hold 
 **AI/ML Fellow @ Break Through Tech/Cornell Tech: Working on projects involving KNNs, Decision Trees, Logistic Regression, Neural Nets, RAG Pipelines, NLP & LLMS, Agentic Frameworks**
 
 
-##**👩🏽‍💻 Past Positions and work**
+## **👩🏽‍💻 Past Positions and work**
 - Intern @ Camber - BRCA Exchange Project []()
 - Bioinformatics Intern @ Pillai Lab UCSF - []()
   
