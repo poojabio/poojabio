@@ -49,7 +49,9 @@ shapes disease progression and to test whether findings from model systems hold 
 **📫 How to reach me:** 
 - Email: pparthasarathy[at]ucsd[dot]edu
 - LinkedIn: [https://www.linkedin.com/in/pooja-parthasarathy/](https://www.linkedin.com/in/pooja-parthasarathy/)
+
 <br>
+
 **Outside of anything work-related: I collect currency (73+ countries - and love to talk about it!), walking/hiking around San Diego, reading across genres (postcolonial literature is a personal favorite!), and trying my hand at painting :)**
   
 
