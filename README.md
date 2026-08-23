@@ -1,8 +1,8 @@
 # Hi! 👋 I'm Pooja
 
 I am a Bioinformatics & Computer Science student at UC San Diego, working at the intersection of translational medicine, multi-omics, and tech-for-science tooling!
-
-Whether it be Machine Learning or tool development, I'm curious about designing software, algorithms, and analysis frameworks that work for biological data and remove the black box 
+<br>
+Whether it's Machine Learning or tool development, I'm curious about designing software, algorithms, and analysis frameworks that work for biological data and remove the black box 
 that currently stands in the way of computational accessibility and confidence.
 <!--
 **poojabio/poojabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working at PreCSN @ UCSD's Institute for Network Medicine & Ghosh Lab
 **Applying computational methods across transcriptomics, microbiome, and clinical-outcome data to trace how GIV/Girdin signaling 
 shapes disease progression and to test whether findings from model systems hold up in human systems.**
-
+<br>
 ### **Projects and Contributions:**
 **Building and validating an in silico clinical trial model using Kaplan-Meier survival prediction**
 - Benchmarked across in-house and external cohorts
@@ -32,16 +32,24 @@ shapes disease progression and to test whether findings from model systems hold 
  
 **Building an end-to-end 16S metagenomics pipeline wrapping the QIIME2 CLI**
 - With dimensionality reduction and model selection to predict GIV-driven microbiome community shifts in an in-house mouse model
-
+<br>
+<br>
 ## 🌱 Beyond the Lab I'm currently working on learning machine learning algorithms and software tool development 
 **Building RAW2COMPASS: [https://compassprep.precsn.com/](https://compassprep.precsn.com/) (More to come soon! 👀)**
 **AI/ML Fellow @ Break Through Tech/Cornell Tech: Working on projects involving KNNs, Decision Trees, Logistic Regression, Neural Nets, RAG Pipelines, NLP & LLMS, Agentic Frameworks**
+<br>
+<br>
+## 👩🏽‍💻 Past Positions and work 
+- Intern @ Camber - BRCA Exchange Project []()
+- Bioinformatics Intern @ Pillai Lab UCSF - []()
+<br>
+<br>
 
 ### Because my work involves clinical and lab data, most of it isn't public-facing. I'm glad to discuss details, methods, or results directly — message me anytime ☺️
 **📫 How to reach me:** 
 - Email: pparthasarathy[at]ucsd[dot]edu
 - LinkedIn: [https://www.linkedin.com/in/pooja-parthasarathy/](https://www.linkedin.com/in/pooja-parthasarathy/)
-
+<br>
 **Outside of anything work-related: I collect currency (73+ countries - and love to talk about it!), walking/hiking around San Diego, reading across genres (postcolonial literature is a personal favorite!), and trying my hand at painting :)**
   
 
