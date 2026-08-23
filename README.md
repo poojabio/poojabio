@@ -34,11 +34,14 @@ shapes disease progression and to test whether findings from model systems hold 
 - With dimensionality reduction and model selection to predict GIV-driven microbiome community shifts in an in-house mouse model
 <br>
 <br>
+
 ## 🌱 Beyond the Lab I'm currently working on learning machine learning algorithms and software tool development 
 **Building RAW2COMPASS: [https://compassprep.precsn.com/](https://compassprep.precsn.com/) (More to come soon! 👀)**
 **AI/ML Fellow @ Break Through Tech/Cornell Tech: Working on projects involving KNNs, Decision Trees, Logistic Regression, Neural Nets, RAG Pipelines, NLP & LLMS, Agentic Frameworks**
+
 <br>
 <br>
+
 ## 👩🏽‍💻 Past Positions and work 
 - Intern @ Camber - BRCA Exchange Project []()
 - Bioinformatics Intern @ Pillai Lab UCSF - []()
