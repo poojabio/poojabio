@@ -1,6 +1,7 @@
 ## Hi! 👋 I'm Pooja
 
 I am a Bioinformatics & Computer Science student at UC San Diego, working at the intersection of translational medicine, multi-omics, and tech-for-science tooling!
+
 Whether it be Machine Learning or tool development, I'm curious about designing software, algorithms, and analysis frameworks that work for biological data and remove the black box 
 that currently stands in the way of computational accessibility and confidence.
 <!--
