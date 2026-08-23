@@ -37,7 +37,7 @@ shapes disease progression and to test whether findings from model systems hold 
 **Building RAW2COMPASS: [https://compassprep.precsn.com/](https://compassprep.precsn.com/) (More to come soon! 👀)**
 **AI/ML Fellow @ Break Through Tech/Cornell Tech: Working on projects involving KNNs, Decision Trees, Logistic Regression, Neural Nets, RAG Pipelines, NLP & LLMS, Agentic Frameworks**
 
-## Because my work involves clinical and lab data, most of it isn't public-facing. I'm glad to discuss details, methods, or results directly — message me anytime ☺️
+### Because my work involves clinical and lab data, most of it isn't public-facing. I'm glad to discuss details, methods, or results directly — message me anytime ☺️
 **📫 How to reach me:** 
 - Email: pparthasarathy[at]ucsd[dot]edu
 - LinkedIn: [https://www.linkedin.com/in/pooja-parthasarathy/](https://www.linkedin.com/in/pooja-parthasarathy/)
